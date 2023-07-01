@@ -1,4 +1,4 @@
-# cypress assignment revised:
+# Cypress assignment revised:
 
 Things I changed:
 
