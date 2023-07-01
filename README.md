@@ -15,6 +15,6 @@ In the ```lookup.cy.js```:
 In the ```password.cy.js```;
 1. In the test "should confirm the cancel button works"- added the email value check and the next button press (step number 9). So now the test is called "should confirm the cancel button works with email shown and clicking next to password page".
 2. Added a test for the missing steps number 10 and 11: "should confirm the back button works with email shown and clicking next to password page".
-3. Added step 13 that I didn't get to finish in test: "should make sure that the remember_me field has a proper value in the API call".
+3. Added step 13 that I didn't get to finish in time: "should make sure that the remember_me field has a proper value in the API call".
    
 *I added the 2fa tests in order to complete the assignment.
